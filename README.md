@@ -1,4 +1,4 @@
-# Manim Animations for Master's Presentations
+# Manim Animations for my Master's Presentations
 
 This repository contains a collection of **Manim Community Edition (Python library)** animations created for my Master's degree presentations.  
 The animations are designed to visually illustrate concepts from my research and make technical material more engaging and accessible.
